@@ -18,7 +18,7 @@
 2\.  参照图1在弹出的窗口（**Configure your new project**）中填入内容，点击**Next**。按照如图所示的值进行填写会使得后续的操作步骤不不容易差错。
 
 * **Application Name**此处填写想呈现给用户的应用名称，此处我们使用“My First App”。
-* **Company domain** 包名限定符，Android Studio会将这个限定符应用于每个新建的Android项目。
+* **Company domain** 公司域名。
 * **Package Name**是应用的包命名空间（同Java的包的概念），该包名在同一Android系统上所有已安装的应用中具有唯一性，我们可以独立地编辑该包名。
 * **Project location**操作系统存放项目的目录。
 
